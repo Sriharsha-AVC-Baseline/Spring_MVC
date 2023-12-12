@@ -1,0 +1,7 @@
+package com.itt.constants;
+
+public enum LeaveTypes {
+	
+	CASUAL_LEAVE,EARNED_LEAVE,DUTY_LEAVE,SICK_LEAVE,PARENTAL_LEAVE,MATERNITY_LEAVE,LEAVE_WITHOUT_PAY
+
+}

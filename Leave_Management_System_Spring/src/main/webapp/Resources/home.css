@@ -1,0 +1,35 @@
+@charset "ISO-8859-1";
+
+h2{
+	text-align: center;
+	color: rgb(255, 255, 255);
+		
+}
+
+
+
+#exampleInputID{
+	width: 86%;
+    margin-left: 30px;
+}
+
+#exampleInputPassword1
+{
+	width: 86%;
+    margin-left: 30px;
+}
+ button{
+	 margin-left: 44%;
+	 margin-top: 5%;
+	 background-color: aqua;
+ }
+
+label{
+	margin-left: 5%;
+	font-weight: bold;
+}
+
+input{
+	color: rgb(134, 255, 113);
+}
+

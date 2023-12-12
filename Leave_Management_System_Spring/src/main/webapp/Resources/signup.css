@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+.center{
+	
+	width: 60%;
+	margin: auto;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	background-color: rgb(255, 255, 255);
+}
+
+label{
+	font-weight: bold;
+	margin-left: 10px;
+}
+
+input{
+	margin-left: 10px;
+	max-width: 96%;
+}
+
